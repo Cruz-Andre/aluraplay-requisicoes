@@ -5,6 +5,12 @@
 <p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo da Alura"> </p>
 <p align="center">Página inicial e formulário de cadastro de vídeos da AluraPlay, uma plataforma de compartilhamento de vídeos.</p>
 
+## como utilizar o servidor json:
+- no terminal ```c:\...\aluraplay-requisicoes\ ```
+- 1º digite: npm init
+- 2º digite: npm install json-server
+- 3º digite: json-server --watch db.json ou npx json-server --watch db.json
+
 ## Tecnologias utilizadas durante o curso
 * Javascript
 * NodeJS
